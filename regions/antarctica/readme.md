@@ -8,7 +8,7 @@ This open source repository will be the new home of support, planning, and educa
 
 * Antarctica is unreachable by undersea fiber optic as [cables would need to withstand shifting land masses and stable -50 degree celsius temperatures](http://news.bbc.co.uk/2/hi/science/nature/2207259.stm).
 * Cellular signal is available [via networks like SigFox](https://www.forbes.com/sites/aarontilley/2016/01/19/antarctica-gets-a-cellular-network-for-the-internet-of-things/) but is designed for IoT and cannot handle streaming or browsing the internet like other mobile networks might provide.
-* Internet is primarily provided by satellites owned by Iridium Communications for law data transmissions, [at an average cost of about $3 per email](https://www.wired.com/2016/03/how-to-ditch-the-internet-while-traveling/). 
+* Internet is primarily provided by satellites owned by Iridium Communications for law data transmissions with short windows of accessibility at certain times of the day, [at an average cost of about $3 per email](https://www.wired.com/2016/03/how-to-ditch-the-internet-while-traveling/). 
 
 Read more about [Internet in Antarctica here](https://www.pilotfiber.com/blog/antarctica-internet).
 
