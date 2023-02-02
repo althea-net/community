@@ -11,7 +11,7 @@ Before starting a new community, choose your region and see if one already exist
 Choose your continent:
 
 * [Africa](#)
-* [Antarctica](#)
+* [Antarctica](./regions/antarctica)
 * [Asia](#)
 * [Oceania](#)
 * [Europe](#)
