@@ -1,4 +1,4 @@
-# Althea in Antarctica
+# Antarctica
 
 In order for Althea networks to deploy, grow, and scale sustainably, communities need to educate and support each other.
 
