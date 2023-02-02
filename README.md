@@ -30,7 +30,7 @@ If you can't find a community suitable to join, feel free to start your own!
 
 By starting a community and becoming its ambassador, you will ultimately be responsible for maintaining it and:
 
-* Providnig the community’s information and intentions
+* Providing the community’s information and intentions
 * Collecting and providing the community’s contact information (infrastructure admin, ambassador’s contact information, etc)
 * Updated community-specific resources, news, and external news that affect the network *(e.g. changes in laws that affect Althea, city ordinances that affect installed infrasture, security updates for hardware, etc)*
 * Being a point-of-contact for anyone wanting to join said community
