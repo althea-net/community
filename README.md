@@ -4,7 +4,7 @@ In order for Althea networks to deploy, grow, and scale sustainably, communities
 
 This open source repository will be the new home of support, planning, and education for communities utilizing Althea to build networks. 
 
-# Find your community
+## Find your community
 
 Before starting a new community, choose your region and see if one already exists suitable for you to join as a supporter, organizer, technician, or ambassador. There is power in numbers, and reinventing the wheel doesn't make much sense towards effective progress!
 
@@ -24,7 +24,7 @@ Choose your continent:
 
 
 
-# Build a new community
+## Build a new community
 
 If you can't find a community suitable to join, feel free to start your own!
 
