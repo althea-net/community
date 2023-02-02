@@ -10,6 +10,8 @@ This open source repository will be the new home of support, planning, and educa
 * Cellular signal is available [via networks like SigFox](https://www.forbes.com/sites/aarontilley/2016/01/19/antarctica-gets-a-cellular-network-for-the-internet-of-things/) but is designed for IoT and cannot handle streaming or browsing the internet like other mobile networks might provide.
 * Internet is primarily provided by satellites owned by Iridium Communications for law data transmissions, [at an average cost of about $3 per email](https://www.wired.com/2016/03/how-to-ditch-the-internet-while-traveling/). 
 
+Read more about [Internet in Antarctica here](https://www.pilotfiber.com/blog/antarctica-internet).
+
 # Viability
 
 It's incredibly difficult to get internet signal to the continent of Antarctica, but once it's there Althea can be useful for the last-mile solutions.  
