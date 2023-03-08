@@ -3,6 +3,12 @@
 The Althea community consists of a diverse group of builders, developers, partners, and users. Our community builds together with the same goal of wanting to ensure connectivity across the globe. As each network is built and each new community springs up, we're committed to providing a place for sharing and organizing. Our community is categorized into three distinct areas of interest:
 
 
+|  |  |
+|--|--|
+|Blockchain|Cosmos details here?|
+|DIY builders|Althea network / KeyLTE details here?|
+|Partners|Corporate network partners here?|
+|End users|Something about internet user communities (is this something we should have?)|
 
 
 
