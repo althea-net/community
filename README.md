@@ -5,8 +5,9 @@ The Althea community consists of a diverse group of builders, developers, partne
 
 |  |  |
 |--|--|
-|Blockchain|Cosmos details here?|
-|DIY builders|Althea network / KeyLTE details here?|
+|Defi Builders|Blockchain platform details here?|
+|Defi participants|Cosmos details here?|
+|DIY network builders|Althea network / KeyLTE details here?|
 |Partners|Corporate network partners here?|
 |End users|Something about internet user communities (is this something we should have?)|
 
