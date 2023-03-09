@@ -5,9 +5,9 @@ Althea is a complete ecosystem built with different components ranging from DeFi
 
 |Network|  |
 |--|--|
-|Builders|DIY community for Althea network / KeyLTE users?|
-|Partners|Corporate network partners here?|
-|End users|Something about internet user communities (is this something we should have?)|
+|Builders|From router hackers to full scale network deployment operators, this community knows networking!|
+|Partners|Communities and companies alike who build out networks to solve real world connectivity problems|
+|End users|The people who benefit directly from Althea the most by using it for their internet regularly!|
 
 |DeFi|  |
 |--|--|
