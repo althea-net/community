@@ -7,12 +7,12 @@ Althea is a complete ecosystem built with different components ranging from DeFi
 |--|--|
 |Builders|From router hackers to full scale network deployment operators, this community knows networking!|
 |Partners|Communities and companies alike who build out networks to solve real world connectivity problems|
-|End users|The people who benefit directly from Althea the most by using it for their internet regularly!|
+|End users|The people who benefit directly from Althea networks the most by using it for their internet regularly!|
 
 |DeFi|  |
 |--|--|
 |Builders|EVM environment builders of incentive structures and programs built on top of the routers or other native micropayment applications|
-|Participants|Cosmos details here?|
+|Participants||
 
 
 
