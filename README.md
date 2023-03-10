@@ -11,7 +11,7 @@ Althea is a complete ecosystem built with different components ranging from DeFi
 
 |DeFi|  |
 |--|--|
-|Builders|Blockchain platform details here?|
+|Builders|EVM environment builders of incentive structures and programs built on top of the routers or other native micropayment applications|
 |Participants|Cosmos details here?|
 
 
