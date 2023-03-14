@@ -5,14 +5,15 @@ Althea is a complete ecosystem built with different components ranging from DeFi
 
 |Network|  |
 |--|--|
-|Builders|From router hackers to full scale network deployment operators, this community knows networking!|
-|Partners|Communities and companies alike who build out networks to solve real world connectivity problems|
-|End users|The people who benefit directly from Althea networks the most by using it for their internet regularly!|
+|[Builders](network/builders.md)|From router hackers to full scale network deployment operators, this community knows networking!|
+|[Partners](network/partners.md)|Communities and companies alike who build out networks to solve real world connectivity problems|
+|[End users](network/end-users.md)|The people who benefit directly from Althea networks the most by using it for their internet regularly!|
 
 |DeFi|  |
 |--|--|
-|Builders|EVM environment builders of incentive structures and programs built on top of the routers or other native micropayment applications|
-|Participants||
+|[Partners](defi/partners.md)|EVM environment builders of incentive structures and programs built on top of the routers or other native micropayment applications|
+|[Participants](defi/participants.md)||
+
 
 
 
