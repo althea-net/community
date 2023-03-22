@@ -17,4 +17,12 @@ Join the conversation by connecting with the Altheac ommunity on any of these pl
 * [Facebook](http://facebook.com/altheanetwork): Updates and local communities on facebook! 
 * [Instagram](http://instagram.com/altheanet/): Updates and great action shots of builds from Althea communities!
 
+## Volunteers and Ambassadors
+
+As Althea is more than just an ecosystem comprised of technology but also a movement for connectivity and further decentralizing the internet, there is plenty of room for community initiatives, volunteers, and ambassadors programs to spread the word, grow the community, and make an impact.
+
+To participate as either, you can [apply directly via a Google form here.](https://docs.google.com/forms/d/e/1FAIpQLScv5ssqfQtftfLTM6vf-zUjTLr_gfNyNed3HgQYPnl8lwwAow/viewform?usp=sf_link). Note that if you contact a team member on Discord or elsewhere regarding this, they will also just send you to this Google form.
+
+
+
 [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/althea-net/communities/blob/main/README.md)
