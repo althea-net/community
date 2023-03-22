@@ -17,15 +17,18 @@ The ecosystem and its communities are broken up into the following interests:
       <table>
         <tr>
           <td><a href="./network/builders.md">Builders</a></td>
-          <td>From router hackers to full scale network deployment operators, this community knows networking!</td>
+          <td>From router hackers to full scale network deployment operators,<br>
+          this community knows networking!</td>
         </tr>
         <tr>
           <td><a href="./network/partners.md">Partners</a></td>
-          <td>Communities and companies alike who build out networks to solve real world connectivity problems</td>
+          <td>Communities and companies alike who build out networks to solve<br>
+          real world connectivity problems</td>
         </tr>
         <tr>
           <td><a href="./network/end-users.md">End Users</a></td>
-          <td>The people who benefit directly from Althea networks the most by using it for their internet regularly!</td>
+          <td>The people who benefit directly from Althea networks the most by<br>
+          using it for their internet regularly!</td>
         </tr>
       </table> 
      </td>
@@ -38,12 +41,13 @@ The ecosystem and its communities are broken up into the following interests:
       <table>
         <tr>
           <td><a href="./defi/partners.md">Partners</a></td>
-          <td>EVM environment builders of incentive structures and programs built on top<br>
-            of the routers or other native micropayment applications</td>
+          <td>EVM environment builders of incentive structures and programs<br>
+          built on top of the routers or other native micropayment applications</td>
         </tr>
         <tr>
           <td><a href="./defi/participants.md">Participants</a></td>
-          <td>Community who particpates in securing the Althea blockchain via votes and staking</td>
+          <td>Community who particpates in securing the Althea blockchain via<br>
+          votes and staking</td>
         </tr>
       </table> 
      </td>
