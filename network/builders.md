@@ -24,7 +24,7 @@ You can get help getting started with or contributing for Rita in the [Althea de
 
 The Althea docs that cover all aspects of setting up a router to setting up a network are [available here](https://docs.althea.net/).
 
-The docs are not presently open to contribute to but we're working on it! 
+<i>The docs are not presently open to contribute to but we're working on it!</i>
 
 
 ### Reporting bugs / suggesting features
