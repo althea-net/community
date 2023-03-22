@@ -1,6 +1,8 @@
 # Althea Community
 
-Althea is a complete ecosystem built with different components ranging from DeFi to hardware. The community consists of a diverse group of builders, developers, partners, and users for every part of the ecosysem. Despite our varying focuses and interests, we all build together with the same goal of wanting to ensure decentralized connectivity across the globe. As each network is built and each new community springs up, we're committed to providing a place for sharing and organizing. Our community is categorized into these distinct areas of interest:
+Althea is a complete ecosystem with complimentary parts components. Each component is a project and community in its own right. These communities consists of a diverse group of builders, developers, partners, and users for every part of the ecosysem. Despite the varying focuses and interests in the community, the same goal is shared of wanting to ensure decentralized connectivity across the globe. With each network and application built the community is committed to providing a place for sharing and organizing for each other.
+
+The ecosystem and its communities are broken up into these components:
 
 
 |Network|  |
