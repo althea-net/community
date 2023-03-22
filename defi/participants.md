@@ -6,7 +6,10 @@ Althea networks are networks built using the Althea ecosystem, which includes th
 
 For the Althea blockchain, there is a role of validator that is crucial to securing the network. While the network is still in testnet, there are many validators currently validating on the blockchain.
 
-As the validator process was invite-only from the first testnet, if you'd like to become a validator, you'll need to wait until mainnet.
+*As the validator process was invite-only from the first testnet, if you'd like to become a validator, you'll need to wait until mainnet.*
+
+If you've already been accepted as a validator, [here is a handy article on how to set up as a validator](https://blog.althea.net/validate/).
+
 
 If you're already a validator and you have issues or want a role on Discord, please use the [Althea Validators channel on Discord](https://discord.com/channels/477147257251299350/595286622178639892). If you're a validator but not yet in that channel, use the [general discussion channel on Discord](https://discord.com/channels/477147257251299350/477147257251299352) and let an admin know the situation. 
 
