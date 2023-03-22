@@ -1,6 +1,6 @@
 # Althea Network Builder Community
 
-Althea networks are networks built using the Althea ecosystem, which includes the protocol, software on devices, and connectivity hardware. The builder community ranges from hobbyist developers and DIY tinkerers to largescale network operators who climb trees to install antennas. Regardless of what scape you're wanting to build at, you can benefit from the experience and expertise of our community of Althea network builders.
+Althea networks are networks built using the Althea ecosystem, which includes the protocol, software on devices, and connectivity hardware. The builder community ranges from hobbyist developers and DIY tinkerers to largescale network operators who climb trees to install antennas. Regardless of what scale you're wanting to build at, you can benefit from the experience and expertise of our community of Althea network builders.
 
 This is the starting point for joining and contributing to the community of builders. You may get help with your builds, commit code, write docs, test product features, report bugs, organize meetups, suggest ideas for new features, get organized to cooperatively build with others near you, and more.
 
