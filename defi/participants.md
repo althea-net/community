@@ -15,15 +15,12 @@ If you've already been accepted as a validator previously, [here is the official
 
 #### Getting help as a validator
 
-If you're already a validator and you have issues or want a role on Discord, please use the [Althea Validators channel on Discord](https://discord.com/channels/477147257251299350/595286622178639892). If you're a validator but not yet in that channel, use the [general discussion channel on Discord](https://discord.com/channels/477147257251299350/477147257251299352) and let an admin know the situation. 
+If you're already a validator and you have issues or want a role on Discord, please use the [Althea Validators channel on Discord](https://discord.com/channels/477147257251299350/595286622178639892). If you're a validator but not yet in that channel, use the [general discussion channel on Discord](https://discord.com/channels/477147257251299350/477147257251299352) and let an admin know the situation.
 
 #### Who are the current validators?
 
 [Here is a directory of current validators](./defi/validators.md).
-
-### FAQ
-
-Coming soon!
+ 
 
 ### Getting help
 
@@ -32,5 +29,14 @@ The best place to get help as a participant is in the [Althea Blockchain Tech Su
 ### Token related discussions
 
 For token related discussions and initiatives, the community gathers in the [Althea Token Talk channel on Discord](https://discord.com/channels/477147257251299350/1030206718581411990).
+
+### FAQ
+
+#### How can I get tokens for testing as a validator?
+
+For the time being, you can request tokens in the [Althea Validator Faucet Discord channel](https://discord.com/channels/477147257251299350/1090251561839628318).
+
+
+
 
 [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/althea-net/communities/blob/main/README.md)
