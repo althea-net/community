@@ -19,7 +19,7 @@ If you're already a validator and you have issues or want a role on Discord, ple
 
 #### Who are the current validators?
 
-[Here is a directory of current validators](./defi/validators.md).
+[Here is a directory of current validators](./validators.md).
  
 
 ### Getting help
