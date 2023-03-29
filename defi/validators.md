@@ -13,3 +13,5 @@ The following is a community curated directory of validators.
 | [moodman](https://github.com/Boblev999) |  bsheig888@gmail.com     |  `althea1xs9d49atz5jjjzadmfman4kzg4elj6mggjhukr`       |    [EXPLORER](https://explorer.nodestake.top/althea-testnet/staking/altheavaloper1xs9d49atz5jjjzadmfman4kzg4elj6mgvjyjgx)             |
 | [Birkoff](https://github.com/OlegBirkoff) |  oleg.birkoff@gmail.com     |  `althea18sfd8q2jsggfcjzsyyekk4khkywvxvqx4rgc5a`       |    [EXPLORER](https://explorer.stavr.tech/althea-testnet/staking/altheavaloper18sfd8q2jsggfcjzsyyekk4khkywvxvqx3rmk2c)             |
 | [GreenMit](https://github.com/GreenMit) | investmentgreentrades@gmail.com | `althea1trlf8lt0ayy6f8lfg658sr3zgh357gl8nzq0zd` | [EXPLORER](https://test.anode.team/althea/staking/altheavaloper1trlf8lt0ayy6f8lfg658sr3zgh357gl8hznpug) |
+| [SerGo](https://github.com/CrazySerGo) | contact@sergo.dev | `althea1gvr45nvyzsdg2ve3lj9uxu7ge24edntmfe3fzt` | [EXPLORER](https://explorer.stavr.tech/althea-testnet/staking/altheavaloper1gvr45nvyzsdg2ve3lj9uxu7ge24edntmdez8uw) |
+
