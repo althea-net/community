@@ -16,3 +16,4 @@ The following is a community curated directory of validators.
 | [SerGo](https://github.com/CrazySerGo) | contact@sergo.dev | `althea1gvr45nvyzsdg2ve3lj9uxu7ge24edntmfe3fzt` | [EXPLORER](https://explorer.stavr.tech/althea-testnet/staking/altheavaloper1gvr45nvyzsdg2ve3lj9uxu7ge24edntmdez8uw) |
 | [1ce](https://github.com/humantraffic) | humantraffic@rocketmail.com | `althea1mk9k4k9l9fjkhamx5cr2zpqsjsy5w9y2zdus2n` | [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1mk9k) |
 | [cyberG](https://github.com/Vgk88) | 88vgk88@gmail.com | `althea1e8fvgd3pwcuxlr7r5wy0cuu38dnavxnf4s2579` | [EXPLORER](https://explorer.stavr.tech/althea-testnet/staking/altheavaloper1e8fvgd3pwcuxlr7r5wy0cuu38dnavxnf3se6qq) |
+| [cyberomanov](https://github.com/cyberomanov) | danielromanovtv@gmail.com | `althea1z5eny3lfrlztyz3zhu2nr28lexlpp7gc84ms75` | [EXPLORER](https://explorer.stavr.tech/althea-testnet/staking/altheavaloper1z5eny3lfrlztyz3zhu2nr28lexlpp7gcr4g7q3) |
