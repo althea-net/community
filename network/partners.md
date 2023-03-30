@@ -23,6 +23,11 @@ Althea has several events including:
 * [Althea Midwest Summit](https://www.eventbrite.com/e/althea-midwest-summit-tickets-572038421317) for partners and would-be partners to network and learn all about setting up an Althea network.
 * Althea local regional co-hosted events (coming soon)
 
+### Organize local meetups / Althea events
+
+If you'd like you'd like to organize an official Althea, please use [this form to register](https://7g6dv3aozqg.typeform.com/to/LWMcBqtI) and the Althea team will reach out to you. 
+
+
 ### Volunteer to help other would-be and existing partners
 
 If you'd like to participate in the community and discuss with other partners, the best way is to [join the Althea Partner channel on Discord](https://discord.com/channels/477147257251299350/843276412651438150) and introduce yourself.
