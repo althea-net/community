@@ -35,7 +35,7 @@ If you have encountered a bug or have an issue with the Rita software, you can f
 
 Local meetups can be both fun and educational, socializing with other builders near you and sharing experiences and discussing plans. Anyone can organize an informal meetup, but you can find more information on past meetups here to help you.
 
-If you'd like you'd like to organize an official Althea event however, we plan on having an online guide published soon for the process. In the meantime please contact us directly to discuss as we love to work with our community to host Althea events!
+If you'd like you'd like to organize an official Althea, please use [this form to register](https://7g6dv3aozqg.typeform.com/to/LWMcBqtI) and the Althea team will reach out to you. 
 
 ### Volunteer to help other developers and builders
 
