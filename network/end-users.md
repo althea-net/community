@@ -23,6 +23,9 @@ As Althea is more than just an ecosystem comprised of technology but also a move
 
 To participate as either, you can [apply directly via a Google form here.](https://docs.google.com/forms/d/e/1FAIpQLScv5ssqfQtftfLTM6vf-zUjTLr_gfNyNed3HgQYPnl8lwwAow/viewform?usp=sf_link). Note that if you contact a team member on Discord or elsewhere regarding this, they will also just send you to this Google form.
 
+### Organize local meetups / Althea events
+
+If you'd like you'd like to organize an official Althea, please use [this form to register](https://7g6dv3aozqg.typeform.com/to/LWMcBqtI) and the Althea team will reach out to you. 
 
 
 [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/althea-net/communities/blob/main/README.md)
