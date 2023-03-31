@@ -40,3 +40,6 @@ The following is a community curated directory of validators.
 |34| [Nodeist](https://github.com/Nodeist) | Nodeist | nodeist.net#3299 | `althea1mtfhwl7wwjllt05gj3dc2tesvvzvx90jx6cmwh`   |    [EXPLORER](https://www.skynetexplorers.com/althea/staking/altheavaloper1mtfhwl7wwjllt05gj3dc2tesvvzvx90jz6t4sj)   |
 |35| [StakeAngle](https://stakeangle.com) | info@stakeangle.com | `althea18khuc547x3r76z66hlj2zn0f2207mcc6tvt5ex`   |    [EXPLORER](https://althea.explorers.guru/validator/altheavaloper18khuc547x3r76z66hlj2zn0f2207mcc60vc68r)   |
 |36| [PathrockNetwork](https://pathrocknetwork.org/) | pathrock@protonmail.org | `althea159lme7ufjftz3ftcyszseke5sgmkyseg8czqyh`   |    [EXPLORER](https://althea.explorers.guru/validator/altheavaloper159lme7ufjftz3ftcyszseke5sgmkysegrc3w6j)   |
+
+
+|39| [Stigga](https://stigga.org/) | afelay0@gmail.com | `althea1pd7d7nfq5zz3ztcyjlvfhyf5fczn3ueldyme7h`   |    [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1pd7d7nfq5zz3ztcyjlvfhyf5fczn3uelfyghqj)   |
