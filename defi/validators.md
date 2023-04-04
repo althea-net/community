@@ -53,3 +53,5 @@ The following is a community curated directory of validators.
 |47| [oxes](https://github.com/ASergijenko) |  oxes#8647     |  `althea1kerz4vftkq46p3gx7u82u2ycrxul6srlvauy7k`       |    [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1kerz4vftkq46p3gx7u82u2ycrxul6srlga02qn)             |
 |48| [Tecnodes](https://github.com/tecnodes-network) |  tecnodes.network@gmail.com     |  `althea1funymzkaq57gplgxpk9uplq7eagkk3q5t560wf`       |    [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1funymzkaq57gplgxpk9uplq7eagkk3q505fpsv)             |
 |49| [dreamstaker](https://github.com/dreamstaker) |  Anna1242#2262     |  `althea1x2lh2vq6fflwwut50hxk0ukvtvlraupnz249dv`       |    [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1x2lh2vq6fflwwut50hxk0ukvtvlraupnx2xtnf)             |
+|50| [jayjay](https://github.com/jwelrynewone) |  jayjay#4970     |  `althea1auxzyyv89nlypkz29w298gagdx54v4advw8gs8`       |    [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1auxzyyv89nlypkz29w298gagdx54v4adgw5xwz)             |
+
