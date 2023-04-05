@@ -59,3 +59,5 @@ The following is a community curated directory of validators.
 |53| [jayjay](https://github.com/jwelrynewone) |  jayjay#4970     |  `althea1auxzyyv89nlypkz29w298gagdx54v4advw8gs8`       |    [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1auxzyyv89nlypkz29w298gagdx54v4adgw5xwz)             |
 |54| [LiverRaveN](https://github.com/liver-23) |  Liver#1860     |  `althea1w5tk34avm90x8p2eunk39d0fnykd2gdzsc03uh`       |    [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1w5tk34avm90x8p2eunk39d0fnykd2gdz5culzj)             |
 |55| [Hexnodes](https://github.com/hexskrt) |  hexnodesvalidator@gmail.com     |  `althea1hd8jznyd90hwp74ep0e4wx8p57yqy99xn8fv8c`       |    [EXPLORER](https://explorer.hexskrt.net/althea-network/staking/altheavaloper1hd8jznyd90hwp74ep0e4wx8p57yqy99xh86zea)             |
+|56| [owlstake](https://github.com/owlstake) |  work@owlstake.com     |  `althea16msnzv5d8ajgp29a9v4z82w0sedwe9xgc87flz`       |    [EXPLORER](https://althea.explorers.guru/validator/altheavaloper16msnzv5d8ajgp29a9v4z82w0sedwe9xgu8d8p8)             |
+
