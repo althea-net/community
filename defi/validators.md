@@ -60,4 +60,4 @@ The following is a community curated directory of validators.
 |54| [LiverRaveN](https://github.com/liver-23) |  Liver#1860     |  `althea1w5tk34avm90x8p2eunk39d0fnykd2gdzsc03uh`       |    [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1w5tk34avm90x8p2eunk39d0fnykd2gdz5culzj)             |
 |55| [Hexnodes](https://github.com/hexskrt) |  hexnodesvalidator@gmail.com     |  `althea1hd8jznyd90hwp74ep0e4wx8p57yqy99xn8fv8c`       |    [EXPLORER](https://explorer.hexskrt.net/althea-network/staking/altheavaloper1hd8jznyd90hwp74ep0e4wx8p57yqy99xh86zea)             |
 |56| [owlstake](https://github.com/owlstake) |  work@owlstake.com     |  `althea16msnzv5d8ajgp29a9v4z82w0sedwe9xgc87flz`       |    [EXPLORER](https://althea.explorers.guru/validator/altheavaloper16msnzv5d8ajgp29a9v4z82w0sedwe9xgu8d8p8)             |
-
+|57| [medium](https://github.com/mediumwe11 ) |  medium#7343     |  `althea1qd44kafzkgsr859jrw6d7j6tzjnc4cah2j6rxj`       |    [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1qd44kafzkgsr859jrw6d7j6tzjnc4cahwjfdch)             |
