@@ -61,4 +61,4 @@ The following is a community curated directory of validators.
 |55| [Hexnodes](https://github.com/hexskrt) |  hexnodesvalidator@gmail.com     |  `althea1hd8jznyd90hwp74ep0e4wx8p57yqy99xn8fv8c`       |    [EXPLORER](https://explorer.hexskrt.net/althea-network/staking/altheavaloper1hd8jznyd90hwp74ep0e4wx8p57yqy99xh86zea)             |
 |56| [owlstake](https://github.com/owlstake) |  work@owlstake.com     |  `althea16msnzv5d8ajgp29a9v4z82w0sedwe9xgc87flz`       |    [EXPLORER](https://althea.explorers.guru/validator/altheavaloper16msnzv5d8ajgp29a9v4z82w0sedwe9xgu8d8p8)             |
 |57| [bitszn](https://github.com/alxnode) |  validator@bitszn.com     |  `althea13c060j3xufdz72ck09rm2d8p6eymapknkr5rpl`       |    [EXPLORER](https://althea.explorers.guru/validator/altheavaloper13c060j3xufdz72ck09rm2d8p6eymapknjr8dl6)             |
-
+|58| [BloClick](https://bloclick.com) | bloclick.com | `althea1r0gvryaxj4qpltpy8f668q3h0y6dzchhhz9ye0`   |    [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1r0gvryaxj4qpltpy8f668q3h0y6dzchhnzk282)   |
