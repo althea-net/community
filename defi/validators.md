@@ -4,7 +4,7 @@ The following is a community curated directory of validators.
 
 | | Org | Contact | Address | Validator proof |
 |-|-----|---------|---------|-----------------|
-|1| [STAVR](https://github.com/obajay) |  t0themo0onn@gmail.com     |  `althea1dmhvufcxxh0r3kf36ktwv7ff5ew20paqp5ee54`       |    [EXPLORER](https://explorer.stavr.tech/althea-testnet/staking/altheavaloper1dmhvufcxxh0r3kf36ktwv7ff5ew20paq952h2s)             |
+|1| [🔥STAVR🔥](https://github.com/obajay) |  t0themo0onn@gmail.com     |  `althea1dmhvufcxxh0r3kf36ktwv7ff5ew20paqp5ee54`       |    [EXPLORER](https://explorer.stavr.tech/althea-testnet/staking/altheavaloper1dmhvufcxxh0r3kf36ktwv7ff5ew20paq952h2s)             |
 |2| [AlxVoy ⚡ ANODE.TEAM](https://github.com/Voynitskiy) |  alxvoy@anode.team     |  `althea16h4yy2pxw8e2pxwgswvv69xwgh64eg2sp4f23m`       |    [EXPLORER](https://test.anode.team/althea/staking/altheavaloper16h4yy2pxw8e2pxwgswvv69xwgh64eg2s946y07)             |
 |3| [LIVE🟢NODE](https://github.com/EcaterinaSm) | livenode.pro@gmail.com | `althea1tjsp4yengqr0vqyx0aa6f73gpc3ltjfs24v9ej` | [EXPLORER](https://test.anode.team/althea/staking/altheavaloper1tjsp4yengqr0vqyx0aa6f73gpc3ltjfsw4lt8h) |
 |4| [NodeStake](https://nodestake.top/) | alan@nodestake.top | `althea1z0fyvylcz3x8yqanu2th2f9s8vljf83pjmv9mk` | [EXPLORER](https://explorer.nodestake.top/althea-testnet/staking/altheavaloper1z0fyvylcz3x8yqanu2th2f9s8vljf83pkmlt9n) |
@@ -67,4 +67,5 @@ The following is a community curated directory of validators.
 |61| [Nodes.Guru](https://github.com/nodesguru ) |  info@nodes.guru     |  `althea1mtay7xk5aucem30nc3e48z84hklg2h50g7cdrv`       |    [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1mtay7xk5aucem30nc3e48z84hklg2h50v7traf)             |
 |62| [ushakov](https://github.com/k0kk0k ) |  Danil Ushakov#5735     |  `althea1efgf5pxcdewrwzmzdwprrq820uuwn6vlz0g254`       |    [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1efgf5pxcdewrwzmzdwprrq820uuwn6vlx0my2s)             |
 |63| [Spectrum](https://github.com/kernelpanic9 ) |  kernelpanic#9342     |  `althea1uuwd4ganp3n0e5wvthjhq6hpqwqrahwce3lxv3`       |    [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1uuwd4ganp3n0e5wvthjhq6hpqwqrahwca3vgj5)             |
-|64| [goto5k](https://github.com/goto5k ) |  goto5k#3707     |  `althea1vr93jv7nsmw7n2vu6pr0gkxeqzy58hr35kawmw`       |    [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1vr93jv7nsmw7n2vu6pr0gkxeqzy58hr3skwq9t)             |
+|64| [wombat](https://github.com/wombatqq) |  wombat#7690     |  `althea1yqtq4ycrhplhka3575mdwshxv7d2ylcm4uew3n`       |    [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1yqtq4ycrhplhka3575mdwshxv7d2ylcm3u2q0k)             |
+|65| [goto5k](https://github.com/goto5k ) |  goto5k#3707     |  `althea1vr93jv7nsmw7n2vu6pr0gkxeqzy58hr35kawmw`       |    [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1vr93jv7nsmw7n2vu6pr0gkxeqzy58hr3skwq9t)             |
