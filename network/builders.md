@@ -8,6 +8,10 @@ This is the starting point for joining and contributing to the community of buil
 
 Whenever in doubt, the best thing to do is [jump right into the Discord](https://discord.gg/hHx7HxcycF) and introduce yourself. That will give others a chance to help direct you to the right resources and answer specific questions you might have.
 
+If you're interested more in the general basics requried to build your own network, check out this fantastic [Community ISP Handbook](https://ubiquitous-wildebeest-81b.notion.site/9391097364e84f33968423a0b0a7a230?v=f6f62aa252d04466980c373407743a97) from the The Pacific Northwest Rural Broadband Alliance.
+
+
+
 ### Getting started with contributing code
 
 The telecom stack and core management and billing software for Althea is called Rita.
