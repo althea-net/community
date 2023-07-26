@@ -87,3 +87,4 @@ The following is a community curated directory of validators.
 |81| [IRISnet](https://irisnet.org) | oncloudit#4921 | `althea1qmwy60zlx8gvmq7jj4lswl3fv55xjysvqspqu6` | [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1qmwy60zlx8gvmq7jj4lswl3fv55xjysvysjwzl) |
 |82| [Djo](https://github.com/DjoDjaX) | .djodja | `altheavaloper1vtd5l9grjuwmh9r3fqh8572muunjmc77xceum9` | [EXPLORER](https://explorer.stavr.tech/althea-testnet/staking/altheavaloper1vtd5l9grjuwmh9r3fqh8572muunjmc77xceum9) |
 |83| [CryptoSJ.net](https://github.com/msobh13) | CryptoSJ.net | `altheavaloper1ryktwf9c0mz750jx3em8yfqempf8e4sj6w9yk3` | [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1ryktwf9c0mz750jx3em8yfqempf8e4sj6w9yk3) |
+|84| [BonyNode💚](https://github.com/cryptobits3) | bonynode | `altheavaloper14jnk5nj8tcr2e2n59erkh76yxnmg8kwh0hlsp9` | [EXPLORER](https://bonynode.online/althea/staking/altheavaloper14jnk5nj8tcr2e2n59erkh76yxnmg8kwh0hlsp9) |
