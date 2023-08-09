@@ -89,3 +89,4 @@ The following is a community curated directory of validators.
 |83| [CryptoSJ.net](https://github.com/msobh13) | CryptoSJ.net | `altheavaloper1ryktwf9c0mz750jx3em8yfqempf8e4sj6w9yk3` | [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1ryktwf9c0mz750jx3em8yfqempf8e4sj6w9yk3) |
 |84| [BonyNode💚](https://github.com/cryptobits3) | bonynode | `altheavaloper14jnk5nj8tcr2e2n59erkh76yxnmg8kwh0hlsp9` | [EXPLORER](https://bonynode.online/althea/staking/altheavaloper14jnk5nj8tcr2e2n59erkh76yxnmg8kwh0hlsp9) |
 |85| [🔥Kaygal](https://github.com/khutoryansky) | lil.roger | `altheavaloper1s3sdxq748gc5ehzsjj2xg94vphhjy0x4wyp54w` | [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1s3sdxq748gc5ehzsjj2xg94vphhjy0x4wyp54w) |
+|85| [tRDM](https://github.com/terdim28/) | terdim28@gmail.com | `althea1w0zed349g9vlwd397dfrmkx6yhlje9rv6mv5vq` | [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1w0zed349g9vlwd397dfrmkx6yhlje9rv7ml6j9) |
