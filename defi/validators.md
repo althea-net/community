@@ -92,3 +92,4 @@ The following is a community curated directory of validators.
 |85| [tRDM](https://github.com/terdim28/) | terdim28@gmail.com | `althea1w0zed349g9vlwd397dfrmkx6yhlje9rv6mv5vq` | [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1w0zed349g9vlwd397dfrmkx6yhlje9rv7ml6j9) |
 |86| [terlia](https://github.com/nattinuts/) | terlia_nat#1620 | `althea1u8eg4st6fnqeez086485tr55lnjzjf5v96klxr` | [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1u8eg4st6fnqeez086485tr55lnjzjf5vp693cx) |
 |86| [Sirius.nodes](https://github.com/AlexSHuk/) | sirius.nodes@gmail.com | `althea1yvzd9kedvejr5qh4m4vwrfr6xgz3qg7x9u4ven` | [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1yvzd9kedvejr5qh4m4vwrfr6xgz3qg7xpuxz8k) |
+|87| [orahapris](https://github.com/orahapris/) | orahapris@gmail.com | `althea1x4dwxyncfhe7affmyaynse2e4q88q5ftsksa59` | [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1x4dwxyncfhe7affmyaynse2e4q88q5ft5krn2q) |
