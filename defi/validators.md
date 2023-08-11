@@ -97,3 +97,4 @@ The following is a community curated directory of validators.
 |91| [tinboy](https://github.com/tinboy16/) | thuongtin1602@gmail.com | `althea1k0p5h3gw3scu688g9z2uxmzp3pjucpp2kxgvaa` | [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1k0p5h3gw3scu688g9z2uxmzp3pjucpp2jxmzrc) |
 |92| [ksalab](https://github.com/ksalab/) | ksalab0@gmail.com | `althea14sazswzv2hvtkmsd8tzqzn99saujumqcugjf6w` | [EXPLORER](https://althea.explorers.guru/validator/altheavaloper14sazswzv2hvtkmsd8tzqzn99saujumqccgp8yt) |
 |93| [VLD](https://github.com/vladislavkovalov) | valerian.lodge1@gmail.com | `althea1hnca673vpsss9rjd853k7vy69w2xn9n5829eak` | [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1hnca673vpsss9rjd853k7vy69w2xn9n5r2khrn) |
+|94| [Catocaron](https://github.com/catocaron/) | Discord: catocaron | `althea1mfefdjn0hhp06vnt72703tfr9x47v9c70jz8k6` | [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1mfefdjn0hhp06vnt72703tfr9x47v9c7tj3fgl) |
