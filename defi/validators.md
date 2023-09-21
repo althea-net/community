@@ -104,3 +104,5 @@ The following is a community curated directory of validators.
 |98| [Stake Village](https://github.com/semalis/) | semalist mazeinsv@gmail.com | `althea1axtr0pprs0g7ep6tx5z80csr6074m0zv5vh2dz` | [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1axtr0pprs0g7ep6tx5z80csr6074m0zvsvyyn8) |
 |99| [dankuzone w/ DAIC](https://daic.capital/danku_zone) | office@daic.capital | `altheavaloper13wkqd5rz834k0s8hwuhds6a54hp3rxunel00uk` | [EXPLORER](https://althea.explorers.guru/validator/altheavaloper13wkqd5rz834k0s8hwuhds6a54hp3rxunel00uk) |
 |100| [Pro-Nodes75](https://github.com/svv28) | Discord: SW33 \| pro-nodes#0534 | `althea1n2435hw4fnzpet94658lsmkufnyfhf6gmlaenf` | [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1n2435hw4fnzpet94658lsmkufnyfhf6gllwhdv) |
+|101| [Thoth](https://github.com/electrone13) | http://thoth.guru | `altheavaloper1pfqxtu5ja2uq7tmt5vutkcz54el5u8zkuhur49` | [EXPLORER]
+([https://althea.explorers.guru/validator/altheavaloper1pfqxtu5ja2uq7tmt5vutkcz54el5u8zkuhur49)) |
