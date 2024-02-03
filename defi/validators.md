@@ -105,4 +105,5 @@ The following is a community curated directory of validators.
 |99| [dankuzone w/ DAIC](https://daic.capital/danku_zone) | office@daic.capital | `altheavaloper13wkqd5rz834k0s8hwuhds6a54hp3rxunel00uk` | [EXPLORER](https://althea.explorers.guru/validator/altheavaloper13wkqd5rz834k0s8hwuhds6a54hp3rxunel00uk) |
 |100| [Pro-Nodes75](https://github.com/svv28) | Discord: SW33 \| pro-nodes#0534 | `althea1n2435hw4fnzpet94658lsmkufnyfhf6gmlaenf` | [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1n2435hw4fnzpet94658lsmkufnyfhf6gllwhdv) |
 |101| [Thoth](https://github.com/electrone13) | http://thoth.guru | `altheavaloper1pfqxtu5ja2uq7tmt5vutkcz54el5u8zkuhur49` | [EXPLORER]
+|102| [kriptoescobar](https://github.com/kriptoescobar007) | https://linktr.ee/kriptoescobar | `altheavaloper1csee83vd2x492q4lvz35esuxlhr8k0mznwkuf5` | [EXPLORER (https://althea.explorers.guru/validator/altheavaloper1csee83vd2x492q4lvz35esuxlhr8k0mznwkuf5) ]
 ([https://althea.explorers.guru/validator/altheavaloper1pfqxtu5ja2uq7tmt5vutkcz54el5u8zkuhur49)) |
