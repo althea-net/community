@@ -106,3 +106,4 @@ The following is a community curated directory of validators.
 |100| [Pro-Nodes75](https://github.com/svv28) | Discord: SW33 \| pro-nodes#0534 | `althea1n2435hw4fnzpet94658lsmkufnyfhf6gmlaenf` | [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1n2435hw4fnzpet94658lsmkufnyfhf6gllwhdv) |
 |101| [Thoth](https://github.com/electrone13) | http://thoth.guru | `altheavaloper1pfqxtu5ja2uq7tmt5vutkcz54el5u8zkuhur49` | [EXPLORER]
 ([https://althea.explorers.guru/validator/altheavaloper1pfqxtu5ja2uq7tmt5vutkcz54el5u8zkuhur49)) |
+|109| [Zuka](https://github.com/zukaman/) | Discord: zuka116 | `althea1ru5px3rl46v2kjhr9w5murypjvd4dfkua7wejl` | [EXPLORER](https://althea.explorers.guru/validator/altheavaloper1ru5px3rl46v2kjhr9w5murypjvd4dfkue7ahv6) |
