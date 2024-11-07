@@ -59,7 +59,7 @@ The ecosystem and its communities are broken up into the following interests:
 
 Join the conversation by connecting with the Altheac ommunity on any of these platforms!
 
-* [Twitter](https://twitter.com/altheanetwork): Follow @altheanetwork for real-time announcements of blog posts, events, news, ideas.
+* [X (formerly Twitter)](https://x.com/altheanetwork): Follow @altheanetwork for real-time announcements of blog posts, events, news, ideas.
 * [GitHub](https://github.com/althea-net): All the projects and issue tracking, plus Althea and KeyLTE open source code.
 * [Discord](https://discord.gg/hHx7HxcycF): 5000 members and growing!
 * [Reddit](https://reddit.com/r/altheamesh): Get related news and discussions at "the front page of the internet".
